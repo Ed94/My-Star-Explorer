@@ -13,7 +13,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Audio
 
-[audacity / audacity](https://github.com/audacity/audacity) : Audio Editor
+[audacity / audacity](https://github.com/audacity/audacity) : Audio Editor  
 [BlokasLabs / guitarix](https://github.com/BlokasLabs/guitarix) : guitarix mirror from https://sourceforge.net/p/guitarix/git/  
 [smbolton / hexter](https://github.com/smbolton/hexter) : Yamaha DX7 modeling DSSI soft synth  
 [hydrogen-music / hydrogen](https://github.com/hydrogen-music/hydrogen) : The git repository of the advanced drum machine  
@@ -117,7 +117,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Constructive Mathemathics
 
-[https://github.com/HoTT/HoTT](https://github.com/HoTT/HoTT) : Homotopy type theory  
+[HoTT / HoTT](https://github.com/HoTT/HoTT) : Homotopy type theory  
 [leanprover / lean](https://github.com/leanprover/lean) : Lean Theorem Prover  
 [martinescardo / TypeTopology](https://github.com/martinescardo/TypeTopology) : Logical manifestations of topological concepts, and other things. This version adopts the univalent point of view.  
 [UniMath / UniMath](https://github.com/UniMath/UniMath) : This coq library aims to formalize a substantial body of mathematics using the univalent point of view.  
@@ -160,8 +160,6 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [ikrima / gamedevguide](https://github.com/ikrima/gamedevguide) : Game Development & Unreal Engine Programming Guide  
 [SamyPesse / How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) : How to Make a Computer Operating System in C++  
 [gurugio / lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) : How to be low-level programmer  
-[mamedev / mame](https://github.com/mamedev/mame) : MAME. Nuff said.
-[libretro / mupen64plus-libretro](https://github.com/libretro/mupen64plus-libretro) : Mupen64 Plus libretro core that stays compatible with upstream.  
 [cfenollosa / os-tutorial](https://github.com/cfenollosa/os-tutorial) : How to create an OS from scratch  
 [steshaw / plt](https://github.com/steshaw/plt) : λΠ Programming Language Theory  
 [tuvtran / project-based-learning](https://github.com/tuvtran/project-based-learning) : Curated list of project-based tutorials  
@@ -181,6 +179,8 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [Inori / GPCS4](https://github.com/Inori/GPCS4) : A Playstation 4 emulator just begin  
 [Tinob / Ishiiruka](https://github.com/Tinob/Ishiiruka) : Custom Dolphin Emulator  
 [libretro / Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) : Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.  
+[mamedev / mame](https://github.com/mamedev/mame) : MAME. Nuff said.  
+[libretro / mupen64plus-libretro](https://github.com/libretro/mupen64plus-libretro) : Mupen64 Plus libretro core that stays compatible with upstream.  
 [PCSX2 / pcsx2](https://github.com/PCSX2/pcsx2) : PCSX2 - The Playstation 2 Emulator  
 [inolen / redream](https://github.com/inolen/redream) : Work In Progress SEGA Dreamcast emulator  
 [libretro / RetroArch](https://github.com/libretro/RetroArch) : Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.  
@@ -195,8 +195,9 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Functional
 
-[ditto / ditto](https://github.com/ditto/ditto) : A Super Kawaii Dependently Typed Programming Language 
+[ditto / ditto](https://github.com/ditto/ditto) : A Super Kawaii Dependently Typed Programming Language  
 [cobbpg / elerea](https://github.com/cobbpg/elerea) : A simple FRP library providing leak-free first-class streams.  
+[idris-lang / Idris-dev](https://github.com/idris-lang/Idris-dev) : A Dependently Typed Functional Programming Language  
 [unisonweb / unison](https://github.com/unisonweb/unison) :  A friendly programming language from the future. unisonweb.org  
 
 # Game Dev
@@ -233,9 +234,9 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [historicalsource / mspacman-7800](https://github.com/historicalsource/mspacman-7800) : Ms. Pac-Man (1987) by General Computer Corporation for the Atari 7800  
 [id-Software / Quake](https://github.com/id-Software/Quake) : Quake GPL Source Release  
 [historicalsource / quake](https://github.com/historicalsource/quake) : Quake (1996) by id Software, Inc.  
-[historicalsource / quake2](https://github.com/historicalsource/quake2) : Quake II (1997) by id Software, Inc. 
+[historicalsource / quake2](https://github.com/historicalsource/quake2) : Quake II (1997) by id Software, Inc.  
 [id-Software / Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) : Quake III Arena GPL Source Release  
-[historicalsource / quake3arena](https://github.com/historicalsource/quake3arena) : Quake III: Arena (1999) by id Software, Inc. 
+[historicalsource / quake3arena](https://github.com/historicalsource/quake3arena) : Quake III: Arena (1999) by id Software, Inc.  
 [id-Software / RTCW-MP](https://github.com/id-Software/RTCW-MP) : Return to Castle Wolfenstein Multiplayer GPL Source Release  
 [historicalsource / spacetrader](https://github.com/historicalsource/spacetrader) : Space Trader (2002) by Pieter Spronck  
 [xy008areshsu / speed-dreams-2](https://github.com/xy008areshsu/speed-dreams-2) : An open source car simulator, child of Torcs  
@@ -250,7 +251,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [FrictionalGames / HPL1Engine](https://github.com/FrictionalGames/HPL1Engine) : A real time 3D engine.  
 [https://github.com/mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) : This is an early release of pbrt-v4, the rendering system that will be described in the (eventually) forthcoming fourth edition of Physically Based Rendering: From Theory to Implementation.  
 [Zielon / PBRVulkan](https://github.com/Zielon/PBRVulkan) : Vulkan Real-time Path Tracer Engine  
-[EpicGames / UnrealEngine](https://github.com/EpicGames/UnrealEngine) : Unreal Engine source code 
+[EpicGames / UnrealEngine](https://github.com/EpicGames/UnrealEngine) : Unreal Engine source code  
 [vilbeyli / VQE](https://github.com/vilbeyli/VQE) : Multi-threaded DirectX12 renderer w/ HDR & Multi-monitor support  
 [OpenXRay / xray-16](https://github.com/OpenXRay/xray-16) : Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.  
 
@@ -280,7 +281,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 [ViGEm / AirBender](https://github.com/ViGEm/AirBender) : Windows Bluetooth Host Driver for Sony DualShock Controllers  
 [llvm / circt](https://github.com/llvm/circt) : Circuit IR Compilers and Tools  
-[Alia5 / GloSC](https://github.com/Alia5/GloSC) : Tool for using the Steam-Controller as systemwide XInput controller alongside a global overlay 
+[Alia5 / GloSC](https://github.com/Alia5/GloSC) : Tool for using the Steam-Controller as systemwide XInput controller alongside a global overlay  
 [ViGEm / HidGuardian](https://github.com/ViGEm/HidGuardian) : Windows kernel-mode driver for controlling access to various input devices.  
 [ViGEm / Shibari](https://github.com/ViGEm/Shibari) : Gaming input peripherals test platform for Windows  
 [kolrabi / steamcontroller](https://github.com/kolrabi/steamcontroller) : A library for accessing the Steam Controller without the Steam SDK or Steam.  
@@ -405,7 +406,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 [aristocratos / bpytop](https://github.com/aristocratos/bpytop) : Linux/OSX/FreeBSD resource monitor  
 [TeamCodeStream / codestream](https://github.com/TeamCodeStream/codestream) :  The Code Collaboration Tool Built for Remote Teams codestream.com  
-[DynamoRIO / drmemory](https://github.com/DynamoRIO/drmemory) : Memory Debugger for Windows, Linux, Mac, and Android
+[DynamoRIO / drmemory](https://github.com/DynamoRIO/drmemory) : Memory Debugger for Windows, Linux, Mac, and Android  
 [google / gapid](https://github.com/google/gapid) : Graphics API Debugger  
 [orf / gping](https://github.com/orf/gping) : Ping, but with a graph  
 [falahati / HeliosDisplayManagement](https://github.com/falahati/HeliosDisplayManagement) : An open source display profile management program for Windows with support for NVIDIA Surround  
@@ -416,7 +417,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [microsoft / PowerToys](https://github.com/microsoft/PowerToys) : Windows system utilities to  maximize productivity  
 [google / sanitizers](https://github.com/google/sanitizers) : AddressSanitizer, ThreadSanitizer, MemorySanitizer  
 [prezesp / scoop-viewer](https://github.com/prezesp/scoop-viewer) : A gui client for scoop.  
-[ShareX / ShareX](https://github.com/ShareX/ShareX) : Bow down to your end all be all capture tool -Ed. ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of f… 
+[ShareX / ShareX](https://github.com/ShareX/ShareX) : Bow down to your end all be all capture tool -Ed. ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of f…  
 [Francesco149 / sharenix](https://github.com/Francesco149/sharenix) : A ShareX clone for Linux and FreeBSD.  
 [nvbn / thefuck](https://github.com/nvbn/thefuck) : Magnificent app which corrects your previous console command.  
 [ThomasJaeger / VisualMASM](https://github.com/ThomasJaeger/VisualMASM) : Visual MASM - Assembly IDE for Microsoft MASM  
@@ -427,7 +428,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 # Version Control
 
 [Github Desktop](https://github.com/desktop/desktop) :  Simple collaboration from your desktop desktop.github.com  
-[extrawurst / gitui](https://github.com/extrawurst/gitui) : Blazing 💥 fast terminal-ui for git written in rust 🦀
+[extrawurst / gitui](https://github.com/extrawurst/gitui) : Blazing 💥 fast terminal-ui for git written in rust 🦀  
 [SRombauts / UE4GitPlugin](https://github.com/SRombauts/UE4GitPlugin) : Unreal Engine 4 Git LFS 2 Source Control Plugin (beta)  
 
 # Visual Studio
@@ -451,8 +452,8 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [tokenmill / accelerated-text](https://github.com/tokenmill/accelerated-text) : Accelerated Text helps you to automatically generate natural language descriptions of your data, varying in wording and structure.  
 [hapijs / catbox](https://github.com/hapijs/catbox) : Multi-strategy object caching service  
 [danielbayerlein / dashboard](https://github.com/danielbayerlein/dashboard) : 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.  
-[encode / django-rest-framework](https://github.com/encode/django-rest-framework) : Web APIs for Django. 🎸
-[MasterKale / dts-webpack](https://github.com/MasterKale/dts-webpack) : Django, TypeScript, SCSS, and Webpack, living together in harmony 
+[encode / django-rest-framework](https://github.com/encode/django-rest-framework) : Web APIs for Django. 🎸  
+[MasterKale / dts-webpack](https://github.com/MasterKale/dts-webpack) : Django, TypeScript, SCSS, and Webpack, living together in harmony  
 [microsoft / fast](https://github.com/microsoft/fast) : The adaptive interface system for modern web experiences.  
 [alaingalvan / foilfolio](https://github.com/alaingalvan/foilfolio) : ✨ Build powerful and flexible, heterogeneous portfolios and blogs for polyglot engineers, artists, that like to specialize in a variety of things.  
 [bytecodealliance / wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) : WebAssembly Micro Runtime (WAMR)  
