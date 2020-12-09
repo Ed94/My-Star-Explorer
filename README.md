@@ -759,6 +759,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [ivanceras / sauron-native](https://github.com/ivanceras/sauron-native) : Truly cross platform, truly native. multiple backend GUI for rust  
 [redox-os / ralloc](https://github.com/redox-os/ralloc) : Mirror of https://gitlab.redox-os.org/redox-os/ralloc 
 [rust-lang / rust](https://github.com/rust-lang/rust) : Empowering everyone to build reliable and efficient software.  
+[rust-analyzer / rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) : An experimental Rust compiler front-end for IDEs  
 [Rust-SDL2 / rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) : SDL2 bindings for Rust  
 [rust-windowing / winit](https://github.com/rust-windowing/winit) : Window handling library in pure Rust  
 
