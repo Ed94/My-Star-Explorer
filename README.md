@@ -6,7 +6,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [aseprite / aseprite](https://github.com/aseprite/aseprite) : Animated sprite editor & pixel art tool (Windows, macOS, Linux)  
 [KDE / krita](https://github.com/KDE/krita) : Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.  
 [piskelapp / piskel](https://github.com/piskelapp/piskel) : A simple web-based tool for Spriting and Pixel art.  
-[maierfelix / poxi](https://github.com/maierfelix/poxi) : A flat pixel art editor 
+[maierfelix / poxi](https://github.com/maierfelix/poxi) : A flat pixel art editor  
 [lllyasviel / style2paints](https://github.com/lllyasviel/style2paints) : sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)  
 
 # 3D
@@ -54,7 +54,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [brunosimon / keppler](https://github.com/brunosimon/keppler) : Real time code sharing for your lectures and presentations.  
 [Kode / Kinc](https://github.com/Kode/Kinc) : Modern low level game library and hardware abstraction.  
 [zpl-c / librg](https://github.com/zpl-c/librg) : 🚀 Making multi-player gamedev simpler since 2017  
-[tycho / libtime](https://github.com/tycho/libtime) : Simple library for high-resolution timing
+[tycho / libtime](https://github.com/tycho/libtime) : Simple library for high-resolution timing  
 [vurtun / nuklear](https://github.com/vurtun/nuklear) : A single-header ANSI C gui library  
 [Immediate-Mode-UI / Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) : A single-header ANSI C immediate mode cross-platform GUI library  
 [wmcbrine / PDCurses](https://github.com/wmcbrine/PDCurses) : PDCurses - a curses library for environments that don't fit the termcap/terminfo model.  
@@ -256,7 +256,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [milvus-io / milvus](https://github.com/milvus-io/milvus) : An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy  
 [monitoror / monitoror](https://github.com/monitoror/monitoror) : Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.  
 [build-canaries / nevergreen](https://github.com/build-canaries/nevergreen) : 🐤 A build monitor with attitude  
-[https://github.com/radiorabe/rabe-zabbix](https://github.com/radiorabe/rabe-zabbix) : Collection of various Zabbix templates and helper scripts created or used by Radio Bern RaBe  
+[radiorabe / rabe-zabbix](https://github.com/radiorabe/rabe-zabbix) : Collection of various Zabbix templates and helper scripts created or used by Radio Bern RaBe  
 [vendia / serverless-express](https://github.com/vendia/serverless-express) : Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway  
 [hashicorp / vagrant](https://github.com/hashicorp/vagrant) : Vagrant is a tool for building and distributing development environments.  
 [timberio / vector](https://github.com/timberio/vector) : A high-performance, end-to-end observability data platform.  
@@ -332,7 +332,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Emulation
 
-[DerKoun / bsnes-hd](https://github.com/DerKoun/bsnes-hd) : bsnes fork that adds HD video features
+[DerKoun / bsnes-hd](https://github.com/DerKoun/bsnes-hd) : bsnes fork that adds HD video features  
 [devinacker / bsnes-plus](https://github.com/devinacker/bsnes-plus) : debug-oriented fork of bsnes  
 [libretro / common-shaders](https://github.com/libretro/common-shaders) : Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.  
 [tomlooman / CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) : C++ Coop Horde Third-person Shooter for Unreal Engine 4 (Udemy Project)  
@@ -385,7 +385,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [infinitespacegames / AdvancedLocomotionV3](https://github.com/infinitespacegames/AdvancedLocomotionV3) : C++ port of Advanced Locomotion V3, by Longmire Locomotion  
 [armory3d / armorpaint_unreal](https://github.com/armory3d/armorpaint_unreal) : Unreal Engine plugin for ArmorPaint  
 [Unity-Technologies / AutoLOD](https://github.com/Unity-Technologies/AutoLOD) : Automatic LOD generation + scene optimization  
-[fpwong / AutoSizeComments](https://github.com/fpwong/AutoSizeComments) : Plugin for Unreal Engine 4 that adds auto resizing comment boxes 
+[fpwong / AutoSizeComments](https://github.com/fpwong/AutoSizeComments) : Plugin for Unreal Engine 4 that adds auto resizing comment boxes  
 [keypax / dynamic-walls-demo](https://github.com/keypax/dynamic-walls-demo) : This demo project (Unity) showcases dynamic walls whose sides adapt to the environment used in our upcoming game: Pelagos: Rise of Greece.  
 [kuojustin96 / Dynamic-Weather-System](https://github.com/kuojustin96/Dynamic-Weather-System) : Simple Dynamic Weather System made in Unreal Engine 4 using both C++ and Blueprint  
 [EZhex1991 / EZSoftBone](https://github.com/EZhex1991/EZSoftBone) : A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects  
@@ -395,7 +395,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [ValveSoftware / GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) : Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.  
 [MFatihMAR / Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) : A Curated List of Game Network Programming Resources  
 [tranek / GASDocumentation](https://github.com/tranek/GASDocumentation) : My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.  
-[pond3r / ggpo](https://github.com/pond3r/ggpo) : Good Game, Peace Out Rollback Network SDK. Use it.
+[pond3r / ggpo](https://github.com/pond3r/ggpo) : Good Game, Peace Out Rollback Network SDK. Use it.  
 [KhronosGroup / glTF](https://github.com/KhronosGroup/glTF) : glTF – Runtime 3D Asset Delivery  
 [Tayx94 / graphy](https://github.com/Tayx94/graphy) : Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.  
 [ValveSoftware / halflife](https://github.com/ValveSoftware/halflife) : Half-Life 1 engine based games  
@@ -461,7 +461,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [Interrupt / systemshock](https://github.com/Interrupt/systemshock) : Shockolate - Same great System Shock, new great taste.  
 [dwilliamson / TerminalPacity](https://github.com/dwilliamson/TerminalPacity) : Shareware platform game from 1996/97  
 [jeremybennett / torcs](https://github.com/jeremybennett/torcs) : Mirror of The Open Racing Car Simulator (TORCS) CVS tree on sourceforge  
-[https://github.com/Ell/umk3](https://github.com/Ell/umk3) : Source for Ultimate Mortal Kombat 3 (PSX) 
+[https://github.com/Ell/umk3](https://github.com/Ell/umk3) : Source for Ultimate Mortal Kombat 3 (PSX)  
 [kondrak / vkQuake2](https://github.com/kondrak/vkQuake2) : id Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, MacOS, FreeBSD, Raspberry Pi 4)  
 [TerryCavanagh / VVVVVV](https://github.com/TerryCavanagh/VVVVVV) : The source code to VVVVVV! http://thelettervsixtim.es/  
 
@@ -474,7 +474,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [google / filament](https://github.com/google/filament) : Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL  
 [RomkoSI / G3D](https://github.com/RomkoSI/G3D) : The G3D Innovation Engine by Morgan McGuire  
 [godotengine / godot](https://github.com/godotengine/godot) : Godot Engine – Multi-platform 2D and 3D game engine  
-[Themaister / Granite](https://github.com/Themaister/Granite) : My personal Vulkan renderer 
+[Themaister / Granite](https://github.com/Themaister/Granite) : My personal Vulkan renderer  
 [FrictionalGames / HPL1Engine](https://github.com/FrictionalGames/HPL1Engine) : A real time 3D engine.  
 [jian-ru / laugh_engine](https://github.com/jian-ru/laugh_engine) : A Vulkan implementation of real-time PBR renderer  
 [glouw / littlewolf](https://github.com/glouw/littlewolf) : A tiny software graphics and game engine  
@@ -503,7 +503,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [anrieff / fray](https://github.com/anrieff/fray) : "The Fifth (Render) Element" (educational raytracer)  
 [Dav1dde / glad](https://github.com/Dav1dde/glad) : Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.  
 [nigels-com / glew](https://github.com/nigels-com/glew) : The OpenGL Extension Wrangler Library  
-[rust-windowing / glutin](https://github.com/rust-windowing/glutin) : A low-level library for OpenGL context creation, written in pure Rust. 
+[rust-windowing / glutin](https://github.com/rust-windowing/glutin) : A low-level library for OpenGL context creation, written in pure Rust.  
 [azagaya / laigter](https://github.com/azagaya/laigter) : Laigter: automatic normal map generator for sprites!  
 [mosra / magnum](https://github.com/mosra/magnum) : Lightweight and modular C++11/C++14 graphics middleware for games and data visualization  
 [mosra / magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) : Bootstrap projects for Magnum C++11/C++14 graphics engine  
@@ -559,7 +559,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [llvm / circt](https://github.com/llvm/circt) : Circuit IR Compilers and Tools  
 [Alia5 / GloSC](https://github.com/Alia5/GloSC) : Tool for using the Steam-Controller as systemwide XInput controller alongside a global overlay  
 [ViGEm / HidGuardian](https://github.com/ViGEm/HidGuardian) : Windows kernel-mode driver for controlling access to various input devices.  
-[rusefi / rusefi](https://github.com/rusefi/rusefi) : rusefi - GPL internal combustion engine control unit 
+[rusefi / rusefi](https://github.com/rusefi/rusefi) : rusefi - GPL internal combustion engine control unit  
 [ViGEm / Shibari](https://github.com/ViGEm/Shibari) : Gaming input peripherals test platform for Windows  
 [schlae / snark-barker](https://github.com/schlae/snark-barker) : A 100% compatible replica of the famed SB 1.0 sound card  
 [kolrabi / steamcontroller](https://github.com/kolrabi/steamcontroller) : A library for accessing the Steam Controller without the Steam SDK or Steam.  
@@ -682,7 +682,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Python
 
-[psf / black](https://github.com/psf/black) : The uncompromising Python code formatter 
+[psf / black](https://github.com/psf/black) : The uncompromising Python code formatter  
 [minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.  
 [hoffstadt / DearPyGui](https://github.com/hoffstadt/DearPyGui) : Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies  
 [knipknap / Gelatin](https://github.com/knipknap/Gelatin) : Transform text files to XML, JSON, or YAML  
@@ -771,7 +771,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [Klocman / Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) : Remove large amounts of unwanted applications quickly.  
 [zumoshi / BrowserSelect](https://github.com/zumoshi/BrowserSelect) : Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.  
 [TeamCodeStream / codestream](https://github.com/TeamCodeStream/codestream) :  The Code Collaboration Tool Built for Remote Teams codestream.com  
-[W4RH4WK / Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) : A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps 
+[W4RH4WK / Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) : A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps  
 [Tyrrrz / DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) : Exports Discord chat logs to a file  
 [lostindark / DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) : Driver Store Explorer [RAPR]  
 [DynamoRIO / drmemory](https://github.com/DynamoRIO/drmemory) : Memory Debugger for Windows, Linux, Mac, and Android  
@@ -848,7 +848,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [StylishThemes / GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) : :octocat: Dark GitHub style  
 [Shpota / goxygen](https://github.com/Shpota/goxygen) : Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
 [ottobonn / hexo-image-sizes](https://github.com/ottobonn/hexo-image-sizes) : Generate multiple images sizes (thumbnail, body, etc.) for each source image in Hexo  
-[quocvu / hexo-tag-youtube-responsive](https://github.com/quocvu/hexo-tag-youtube-responsive) : Hexo tag plugin to embed a Youtube video that auto resizes with your responsive layout
+[quocvu / hexo-tag-youtube-responsive](https://github.com/quocvu/hexo-tag-youtube-responsive) : Hexo tag plugin to embed a Youtube video that auto resizes with your responsive layout  
 [heroiclabs / nakama](https://github.com/heroiclabs/nakama) : Distributed server for social and realtime games and apps.  
 [nostalgic-css / NES.css](https://github.com/nostalgic-css/NES.css) : NES-style CSS Framework | ファミコン風CSSフレームワーク  
 [mordentral / VRExpPluginExample](https://github.com/mordentral/VRExpPluginExample) : VRE Example Template  
