@@ -5,7 +5,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 [aseprite / aseprite](https://github.com/aseprite/aseprite) : Animated sprite editor & pixel art tool (Windows, macOS, Linux)  
 [KDE / krita](https://github.com/KDE/krita) : Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.  
-[serge-rgb / milton](https://github.com/serge-rgb/milton) : An infinite-canvas paint program
+[serge-rgb / milton](https://github.com/serge-rgb/milton) : An infinite-canvas paint program  
 [piskelapp / piskel](https://github.com/piskelapp/piskel) : A simple web-based tool for Spriting and Pixel art.  
 [maierfelix / poxi](https://github.com/maierfelix/poxi) : A flat pixel art editor  
 [lllyasviel / style2paints](https://github.com/lllyasviel/style2paints) : sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)  
@@ -49,7 +49,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [cloudwu / coroutine](https://github.com/cloudwu/coroutine) : A asymmetric coroutine library for C.  
 [bryanpkc / corkscrew](https://github.com/bryanpkc/corkscrew) : A tool for tunneling SSH through HTTP proxies  
 [DPDK / dpdk](https://github.com/DPDK/dpdk) : Data Plane Development Kit  
-[EasyHook / EasyHook](https://github.com/EasyHook/EasyHook) : EasyHook - The reinvention of Windows API Hooking
+[EasyHook / EasyHook](https://github.com/EasyHook/EasyHook) : EasyHook - The reinvention of Windows API Hooking  
 [lsalzman / enet](https://github.com/lsalzman/enet) : ENet reliable UDP networking library  
 [GrapheneOS / hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) : Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platfo…  
 [open-mpi / hwloc](https://github.com/open-mpi/hwloc) : Hardware locality (hwloc)  
@@ -96,7 +96,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [foonathan / array](https://github.com/foonathan/array) : contiguous container library - arrays with customizable allocation, small buffer optimization and more  
 [chriskohlhoff / asio](https://github.com/chriskohlhoff/asio) : Asio C++ Library  
 [ogiroux / atomic_wait](https://github.com/ogiroux/atomic_wait) : Sample implementation of C++20 atomic_wait/notify  
-[foonathan / atum](https://github.com/foonathan/atum) : Helpers for preventing the static initialization order fiasco of global variables. 
+[foonathan / atum](https://github.com/foonathan/atum) : Helpers for preventing the static initialization order fiasco of global variables.  
 [badaix / aixlog](https://github.com/badaix/aixlog) : Header-only C++ logging library  
 [richgel999 / bc7enc16](https://github.com/richgel999/bc7enc16) : Fast single source file BC7/BPTC texture encoder with perceptual metric support  
 [crosire / blink](https://github.com/crosire/blink) : A tool which allows you to edit source code of any MSVC C++ project live at runtime  
@@ -137,7 +137,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [alaingalvan / CrossWindow](https://github.com/alaingalvan/CrossWindow) : 💻📱 A cross platform system abstraction library written in C++ for managing windows and performing OS tasks.  
 [ipkn / crow](https://github.com/ipkn/crow) : Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)  
 [Manu343726 / ctti](https://github.com/Manu343726/ctti) : Compile Time Type Information for C++  
-[sharkdp / dbg-macro](https://github.com/sharkdp/dbg-macro) : A dbg(…) macro for C++
+[sharkdp / dbg-macro](https://github.com/sharkdp/dbg-macro) : A dbg(…) macro for C++  
 [foonathan / debug_assert](https://github.com/foonathan/debug_assert) : Simple, flexible and modular assertion macro.  
 [milsto / differential-evolution](https://github.com/milsto/differential-evolution) : Single header c++ implementation of Differential Evolution algorithm for general purpose optimization.  
 [microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) : This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.  
@@ -176,7 +176,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [idea4good / GuiLite](https://github.com/idea4good/GuiLite) : ✔️The smallest header-only GUI library(4 KLOC) for all platforms  
 [nickbruun / hayai](https://github.com/nickbruun/hayai) : C++ benchmarking framework  
 [ROCm-Developer-Tools / HIP](https://github.com/ROCm-Developer-Tools/HIP) : HIP: C++ Heterogeneous-Compute Interface for Portability  
-[hunspell / hunspell](https://github.com/hunspell/hunspell) : The most popular spellchecking library.
+[hunspell / hunspell](https://github.com/hunspell/hunspell) : The most popular spellchecking library.  
 [STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) : The C++ Standard Library for Parallelism and Concurrency  
 [EmuraDaisuke / Idiom.OboroShiki](https://github.com/EmuraDaisuke/Idiom.OboroShiki) : Oboro-Shiki is an evolution version of "Pimpl".  
 [ocornut / imgui](https://github.com/ocornut/imgui) : Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies  
@@ -344,7 +344,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [gaia-pipeline / gaia](https://github.com/gaia-pipeline/gaia) : Build powerful pipelines in any programming language.  
 [hillin / FASTBuild-Dashboard](https://github.com/hillin/FASTBuild-Dashboard) : A GUI for FASTBuild  
 [kata-containers / kata-containers](https://github.com/kata-containers/kata-containers) : Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.  
-[docker / kitematic](https://github.com/docker/kitematic) : Visual Docker Container Management on Mac & Windows
+[docker / kitematic](https://github.com/docker/kitematic) : Visual Docker Container Management on Mac & Windows  
 [milvus-io / milvus](https://github.com/milvus-io/milvus) : An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy  
 [monitoror / monitoror](https://github.com/monitoror/monitoror) : Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.  
 [build-canaries / nevergreen](https://github.com/build-canaries/nevergreen) : 🐤 A build monitor with attitude  
@@ -712,17 +712,17 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Misc
 
-[asciidocfx / AsciidocFX ](https://github.com/asciidocfx/AsciidocFX) :  Asciidoc Editor and Toolchain written with JavaFX 14 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+[asciidocfx / AsciidocFX ](https://github.com/asciidocfx/AsciidocFX) :  Asciidoc Editor and Toolchain written with JavaFX 14 (Build PDF, Epub, Mobi and HTML books, documents and slides)  
 [baldengineer / bit-preserve](https://github.com/baldengineer/bit-preserve) : Project for capturing vintage, classic, aka old computer schematics in KiCad.  
 [HackerPoet / Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) : Simple mathematical art  
 [bountysource / core](https://github.com/bountysource/core) : Bountysource is the funding platform for open-source software.  
 [Chaosthebot / Chaos](https://github.com/Chaosthebot/Chaos) : A social coding experiment that updates its own code democratically.  
-[GNOME / gimp](https://github.com/GNOME/gimp) : Reaz-only mirror of https://gitlab.gnome.org/GNOME/gimp
- [alexkim205 / G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) : Google Suite as a desktop app. Made possible with Electron.
+[GNOME / gimp](https://github.com/GNOME/gimp) : Reaz-only mirror of https://gitlab.gnome.org/GNOME/gimp  
+ [alexkim205 / G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) : Google Suite as a desktop app. Made possible with Electron.  
 [src-d / homebrew](https://github.com/src-d/homebrew) : Real homebrew!  
 [alfg / opendrinks](https://github.com/alfg/opendrinks) : 🍸 Open Source Drinks! Add your own recipe in a pull request!  
 [Xeeynamo / OpenKh](https://github.com/Xeeynamo/OpenKh) : Kingdom Hearts libraries, tools, game engine and documentation  
-[mtkennerly / ludusavi](https://github.com/mtkennerly/ludusavi) : Backup tool for PC game saves
+[mtkennerly / ludusavi](https://github.com/mtkennerly/ludusavi) : Backup tool for PC game saves  
 [hendricius / pizza-dough](https://github.com/hendricius/pizza-dough) : This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.  
 [thinks / platonic-solids](https://github.com/thinks/platonic-solids) : Models, code, and images of the platonic solids in 3D.  
 [polynote / polynote](https://github.com/polynote/polynote) : A better notebook for Scala (and more)  
@@ -952,7 +952,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [PoIgor / Tools](https://github.com/PoIgor/Tools) : Tools for vrCluster plugin  
 [Jiankors / vrCluster](https://github.com/Jiankors/vrCluster) : UE4 plugin source code and sample project  
 [mordentral / VRExpPluginExample](https://github.com/mordentral/VRExpPluginExample) : VRE Example Template  
-[mordentral / VRExpansionPlugin](https://github.com/mordentral/VRExpansionPlugin) : A UE4 VR framework 
+[mordentral / VRExpansionPlugin](https://github.com/mordentral/VRExpansionPlugin) : A UE4 VR framework  
 [vrpn / vrpn](https://github.com/vrpn/vrpn) : Virtual Reality Peripheral Network - Official GitHub Repository  
 [PjotrSvetachov / VRPNInput](https://github.com/PjotrSvetachov/VRPNInput) : A Unreal Engine 4 plugin to add VRPN input to blueprints.  
 
