@@ -1,10 +1,11 @@
 # My-Star-Explorer
-Because Github's "Your Stars" is a pain to sift through. First stage of this is to just get all of them dumped in some sort of categorical form. Later on I might use some sort os script or UI tool to make each start into an element and give them tags so they can viewed in different sorts. Can most likely be aided by the github api. Would be cool to expand this tool possibly as a sort of public repo search engine.
+Because Github's "Your Stars" is a pain to sift through. First stage of this is to just get all of them dumped in some sort of categorical form. Later on I might use some sort of script or UI tool to make each start into an element and give them tags so they can viewed in different sorts. Can most likely be aided by the GitHub API. Would be cool to expand this tool possibly as a sort of public repo search engine.
 
 # 2D
 
 [aseprite / aseprite](https://github.com/aseprite/aseprite) : Animated sprite editor & pixel art tool (Windows, macOS, Linux)  
 [KDE / krita](https://github.com/KDE/krita) : Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.  
+[serge-rgb / milton](https://github.com/serge-rgb/milton) : An infinite-canvas paint program
 [piskelapp / piskel](https://github.com/piskelapp/piskel) : A simple web-based tool for Spriting and Pixel art.  
 [maierfelix / poxi](https://github.com/maierfelix/poxi) : A flat pixel art editor  
 [lllyasviel / style2paints](https://github.com/lllyasviel/style2paints) : sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)  
@@ -39,59 +40,119 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # C
 
+[c-ares / c-ares](https://github.com/c-ares/c-ares) : A C library for asynchronous DNS requests  
 [ivmai / bdwgc](https://github.com/ivmai/bdwgc) : The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)  
 [luke8086 / boot2c](https://github.com/luke8086/boot2c) : A simple way to write standalone C programs for i386  
+[civetweb / civetweb](https://github.com/civetweb/civetweb) : Embedded C/C++ web server  
+[DaveGamble / cJSON](https://github.com/DaveGamble/cJSON) : Ultralightweight JSON parser in ANSI C  
 [cyring / CoreFreq](https://github.com/cyring/CoreFreq) : CoreFreq is a CPU monitoring software designed for the 64-bits Processors.  
 [cloudwu / coroutine](https://github.com/cloudwu/coroutine) : A asymmetric coroutine library for C.  
 [bryanpkc / corkscrew](https://github.com/bryanpkc/corkscrew) : A tool for tunneling SSH through HTTP proxies  
+[DPDK / dpdk](https://github.com/DPDK/dpdk) : Data Plane Development Kit  
+[EasyHook / EasyHook](https://github.com/EasyHook/EasyHook) : EasyHook - The reinvention of Windows API Hooking
 [lsalzman / enet](https://github.com/lsalzman/enet) : ENet reliable UDP networking library  
 [GrapheneOS / hardened_malloc](https://github.com/GrapheneOS/hardened_malloc) : Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platfo…  
 [open-mpi / hwloc](https://github.com/open-mpi/hwloc) : Hardware locality (hwloc)  
 [i3 / i3](https://github.com/i3/i3) : A tiling window manager  
+[benhoyt / inih](https://github.com/benhoyt/inih) : Simple .INI file parser in C, good for embedded systems  
+[ndevilla / iniparser](https://github.com/ndevilla/iniparser) : ini file parser  
 [skywind3000 / FastMemcpy](https://github.com/skywind3000/FastMemcpy) : Speed-up over 50% in average vs traditional memcpy in gcc 4.9 or vc2012  
+[divideconcept / FluidLite](https://github.com/divideconcept/FluidLite) : Very light version of FluidSynth designed to be hardware, platform and external dependency independant.  
+[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) : Software synthesizer based on the SoundFont 2 specifications  
 [dcnieho / FreeGLUT](https://github.com/dcnieho/FreeGLUT) : Copy of FreeGLUT's svn repo on sourceforge, for easy contribution  
 [glfw / glfw](https://github.com/glfw/glfw) : A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input  
+[nemequ / hedley](https://github.com/nemequ/hedley) : A C/C++ header to help move #ifdefs out of your code  
+[libusb / hidapi](https://github.com/libusb/hidapi) : A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac and Windows.  
 [brunosimon / keppler](https://github.com/brunosimon/keppler) : Real time code sharing for your lectures and presentations.  
 [Kode / Kinc](https://github.com/Kode/Kinc) : Modern low level game library and hardware abstraction.  
+[danfis / libccd](https://github.com/danfis/libccd) : Library for collision detection between two convex shapes  
+[libexpat / libexpat](https://github.com/libexpat/libexpat) : 🌿 Expat library: Fast streaming XML parser written in C; in the process of migrating from SourceForge to GitHub  
+[libffi / libffi](https://github.com/libffi/libffi) : A portable foreign-function interface library.  
+[libharu / libharu](https://github.com/libharu/libharu) : libharu - free PDF library  
 [zpl-c / librg](https://github.com/zpl-c/librg) : 🚀 Making multi-player gamedev simpler since 2017  
-[tycho / libtime](https://github.com/tycho/libtime) : Simple library for high-resolution timing  
+[tycho / libtie](https://github.com/tycho/libtime) : Simple library for high-resolution timing  
+[libuv / libuv](https://github.com/libuv/libuv) : Cross-platform asynchronous I/O  
+[felselva / mathc](https://github.com/felselva/mathc) : Pure C math library for 2D and 3D programming  
+[zeroc-ice / mcpp](https://github.com/zeroc-ice/mcpp) : Fork of mcpp, a C/C++ preprocessor  
+[fancycode / MemoryModule](https://github.com/fancycode/MemoryModule) : Library to load a DLL from memory.  
+[charlesnicholson / nanoprintf](https://github.com/charlesnicholson/nanoprintf) : A tiny embeddable printf replacement written in C99.  
 [vurtun / nuklear](https://github.com/vurtun/nuklear) : A single-header ANSI C gui library  
 [Immediate-Mode-UI / Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) : A single-header ANSI C immediate mode cross-platform GUI library  
 [wmcbrine / PDCurses](https://github.com/wmcbrine/PDCurses) : PDCurses - a curses library for environments that don't fit the termcap/terminfo model.  
+[raysan5 / raylib](https://github.com/raysan5/raylib) : A simple and easy-to-use library to enjoy videogames programming  
 [nothings / stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++  
+[orangeduck / tgc](https://github.com/orangeduck/tgc) : A Tiny Garbage Collector for C  
+[wanduow / wandio](https://github.com/wanduow/wandio) : C library for simple and efficient file IO  
+[piscisaureus / wepoll](https://github.com/piscisaureus/wepoll) : wepoll: fast epoll for windows⁧  
+[VirusTotal / yara](https://github.com/VirusTotal/yara) : The pattern matching swiss knife  
+[yasm / yasm](https://github.com/yasm/yasm) : Yasm Assembler mainline development tree  
+[gdraheim / zziplib](https://github.com/gdraheim/zziplib) : The ZZIPlib provides read access on ZIP-archives and unpacked data. It features an additional simplified API following the standard Posix API for file access  
 
 # C++
 
+[faburaya / 3fd](https://github.com/faburaya/3fd) : C++ Framework For Fast Development: OOP wrappers and helpers for OpenCL, SQLite, Microsoft RPC API (DCE), Windows Web Services API (SOAP), Extensible Storage Engine (ESENT) and Service Broker (SQL …  
 [abseil / abseil-cpp](https://github.com/abseil/abseil-cpp) : Abseil Common Libraries (C++)  
 [miguelmartin75 / anax](https://github.com/miguelmartin75/anax) : An open source C++ entity system.  
 [foonathan / array](https://github.com/foonathan/array) : contiguous container library - arrays with customizable allocation, small buffer optimization and more  
+[chriskohlhoff / asio](https://github.com/chriskohlhoff/asio) : Asio C++ Library  
 [ogiroux / atomic_wait](https://github.com/ogiroux/atomic_wait) : Sample implementation of C++20 atomic_wait/notify  
+[foonathan / atum](https://github.com/foonathan/atum) : Helpers for preventing the static initialization order fiasco of global variables. 
+[badaix / aixlog](https://github.com/badaix/aixlog) : Header-only C++ logging library  
 [richgel999 / bc7enc16](https://github.com/richgel999/bc7enc16) : Fast single source file BC7/BPTC texture encoder with perceptual metric support  
 [crosire / blink](https://github.com/crosire/blink) : A tool which allows you to edit source code of any MSVC C++ project live at runtime  
 [michaeljones / breathe](https://github.com/michaeljones/breathe) : ReStructuredText and Sphinx bridge to Doxygen  
-[ccache / ccache](https://github.com/ccache/ccache) : ccache – a fast compiler cache  
-[Manu343726 / ctti](https://github.com/Manu343726/ctti) : Compile Time Type Information for C++  
-[artem-ogre / CDT](https://github.com/artem-ogre/CDT) : C++ library for constrained Delaunay triangulation (CDT)  
+[google / brotli](https://github.com/google/brotli) : Brotli compression format  
+[biojppm / c4core](https://github.com/biojppm/c4core) : C++ utilities  
 [BVLC / caffe](https://github.com/BVLC/caffe) : Caffe: a fast open framework for deep learning.  
+[ccache / ccache](https://github.com/ccache/ccache) : ccache – a fast compiler cache  
+[catchorg / Catch2](https://github.com/catchorg/Catch2) : A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)  
+[google / cctz](https://github.com/google/cctz) : CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone.  
+[DigitalInBlue / Celero](https://github.com/DigitalInBlue/Celero) : C++ Benchmark Authoring Library/Framework  
+[USCiLab / cereal](https://github.com/USCiLab/cereal) : A C++11 library for serialization  
+[libcheck / check](https://github.com/libcheck/check) : A unit testing framework for C  
+[artem-ogre / CDT](https://github.com/artem-ogre/CDT) : C++ library for constrained Delaunay triangulation (CDT)  
 [seanbaxter / circle](https://github.com/seanbaxter/circle) : The compiler is available for download. Get it! www.circle-lang.org/  
-[tschuchortdev / cmake_git_clone](https://github.com/tschuchortdev/cmake_git_clone) : CMake module to clone git repo at config time  
-[pdziepak / codegen](https://github.com/pdziepak/codegen) : Experimental wrapper over LLVM for generating and compiling code at run-time.  
+[dtschump / CImg](https://github.com/dtschump/CImg) : The CImg Library is a small and open-source C++ toolkit for image processing  
+[catchorg / Clara](https://github.com/catchorg/Clara) : A simple to use, composable, command line parser for C++ 11 and beyond  
 [project-arcana / clean-core](https://github.com/project-arcana/clean-core) : forward declarations for C++ std headers  
+[CLIUtils / CLI11](https://github.com/CLIUtils/CLI11) : CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.  
+[ClockworkOrigins / clockUtils](https://github.com/ClockworkOrigins/clockUtils) : A lightweight c++ library for commonly needed tasks. Optimized for simplicity and speed.  
+[pdziepak / codegen](https://github.com/pdziepak/codegen) : Experimental wrapper over LLVM for generating and compiling code at run-time.  
+[tschuchortdev / cmake_git_clone](https://github.com/tschuchortdev/cmake_git_clone) : CMake module to clone git repo at config time  
+[cameron314 / concurrentqueue](https://github.com/cameron314/concurrentqueue) : A fast multi-producer, multi-consumer lock-free concurrent queue for C++11  
+[elbeno / constexpr](https://github.com/elbeno/constexpr) : Experiments with constexpr  
 [foonathan / cppast](https://github.com/foonathan/cppast) : Library to parse and work with the C++ AST  
+[ReneNyffenegger / cpp-base64](https://github.com/ReneNyffenegger/cpp-base64) : base64 encoding and decoding with c++  
+[lewissbaker / cppcoro](https://github.com/lewissbaker/cppcoro) : A library of C++ coroutine abstractions for the coroutines TS  
 [smrfeld / cpp_doxygen_sphinx](https://github.com/smrfeld/cpp_doxygen_sphinx) : Tutorial for a C++ Doxygen CMake Sphinx Breathe Pipeline  
 [cginternals / cppfs](https://github.com/cginternals/cppfs) : Cross-platform C++ file system library supporting multiple backends  
 [andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) : C++ Insights - See your source code with the eyes of a compiler  
+[mfontanini / cppkafka](https://github.com/mfontanini/cppkafka) : Modern C++ Apache Kafka client library (wrapper for librdkafka)  
 [AustinBrunkhorst / CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) : C++ Reflection Parser / Runtime Skeleton  
 [Philip-Trettner / cpp-std-fwd](https://github.com/Philip-Trettner/cpp-std-fwd) : 
+[cpputest / cpputest](https://github.com/cpputest/cpputest) : CppUTest unit testing and mocking framework for C/C++  
 [steinwurf / cpuid](https://github.com/steinwurf/cpuid) : C++ library for detecting CPU capabilities  
 [dcdillon / cpuaff](https://github.com/dcdillon/cpuaff) : C++ interface to CPU affinity management  
+[graeme-hill / crossguid](https://github.com/graeme-hill/crossguid) : Lightweight cross platform C++ GUID/UUID library  
 [alaingalvan / CrossWindow](https://github.com/alaingalvan/CrossWindow) : 💻📱 A cross platform system abstraction library written in C++ for managing windows and performing OS tasks.  
+[ipkn / crow](https://github.com/ipkn/crow) : Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)  
+[Manu343726 / ctti](https://github.com/Manu343726/ctti) : Compile Time Type Information for C++  
+[sharkdp / dbg-macro](https://github.com/sharkdp/dbg-macro) : A dbg(…) macro for C++
 [foonathan / debug_assert](https://github.com/foonathan/debug_assert) : Simple, flexible and modular assertion macro.  
 [milsto / differential-evolution](https://github.com/milsto/differential-evolution) : Single header c++ implementation of Differential Evolution algorithm for general purpose optimization.  
+[microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) : This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.  
+[onqtam / doctest](https://github.com/onqtam/doctest) : The fastest feature-rich C++11/14/17/20 single-header testing framework  
+[google / double-conversion](https://github.com/google/double-conversion) : Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.  
 [doxygen / doxygen](https://github.com/doxygen/doxygen) : Official doxygen git repository  
 [fuchsto / dyloc](https://github.com/fuchsto/dyloc) : Dynamic Hardware Locality  
+[electronicarts / EABase](https://github.com/electronicarts/EABase) : EABase is a small set of header files that define platform-independent data types and platform feature macros.  
+[architector1324 / EasyCL](https://github.com/architector1324/EasyCL) : OpenCL based lightweight c++ computing library  
+[electronicarts / EASTL](https://github.com/electronicarts/EASTL) : EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.  
+[amrayn / easyloggingpp](https://github.com/amrayn/easyloggingpp) : Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write log…  
+[electronicarts / EAThread](https://github.com/electronicarts/EAThread) : EAThread implements a unified cross-platform interface for multithreaded programming.  
 [redxdev / ECS](https://github.com/redxdev/ECS) : C++ single-header entity component system library  
 [cycfi / elements](https://github.com/cycfi/elements) : Elements C++ GUI library  
+[embree / embree](https://github.com/embree/embree) : Embree ray tracing kernels repository.  
 [boostorg / endian](https://github.com/boostorg/endian) : Boost Endian library  
 [dougbinks / enkiTS](https://github.com/dougbinks/enkiTS) : A permissively licensed C and C++ Task Scheduler for creating parallel programs. Requires C++11 support.  
 [mitsuba-renderer / enoki](https://github.com/mitsuba-renderer/enoki) : Enoki: structured vectorization and differentiation on modern processor architectures 
@@ -105,25 +166,39 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [Freeeaky / fiber-job-system](https://github.com/Freeeaky/fiber-job-system) : Multi-Threaded Job System using Fibers  
 [gansm / finalcut](https://github.com/gansm/finalcut) : A text-based widget toolkit  
 [ValveSoftware / Fossilize](https://github.com/ValveSoftware/Fossilize) : A serialization format for various persistent Vulkan object types.  
+[serge-sans-paille / frozen](https://github.com/serge-sans-paille/frozen) : a header-only, constexpr alternative to gperf for C++14 users  
+[google / fruit](https://github.com/google/fruit) : Fruit, a dependency injection framework for C++  
+[Naios / function2](https://github.com/Naios/function2) : Improved and configurable drop-in replacement to std::function that supports move only types, multiple overloads and more  
+[KjellKod / g3log](https://github.com/KjellKod/g3log) : G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own. G3log is made with plain C++14 (C++11 support up to release 1.3.2) with no ext…  
 [jkuhlmann / gainput](https://github.com/jkuhlmann/gainput) : Cross-platform C++ input library supporting gamepads, keyboard, mouse, touch  
+[kthohr / gcem](https://github.com/kthohr/gcem) : A C++ compile-time math library using generalized constant expressions  
 [g-truc / glm](https://github.com/g-truc/glm) : OpenGL Mathematics (GLM)  
 [idea4good / GuiLite](https://github.com/idea4good/GuiLite) : ✔️The smallest header-only GUI library(4 KLOC) for all platforms  
+[nickbruun / hayai](https://github.com/nickbruun/hayai) : C++ benchmarking framework  
 [ROCm-Developer-Tools / HIP](https://github.com/ROCm-Developer-Tools/HIP) : HIP: C++ Heterogeneous-Compute Interface for Portability  
+[hunspell / hunspell](https://github.com/hunspell/hunspell) : The most popular spellchecking library.
 [STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) : The C++ Standard Library for Parallelism and Concurrency  
 [EmuraDaisuke / Idiom.OboroShiki](https://github.com/EmuraDaisuke/Idiom.OboroShiki) : Oboro-Shiki is an evolution version of "Pimpl".  
 [ocornut / imgui](https://github.com/ocornut/imgui) : Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies  
 [Green-Sky / imgui_entt_entity_editor](https://github.com/Green-Sky/imgui_entt_entity_editor) : A drop-in entity editor for EnTT with ImGui  
 [thedmd / imgui-node-editor](https://github.com/thedmd/imgui-node-editor) : Node Editor using ImGui  
+[juliettef / imgui_markdown](https://github.com/juliettef/imgui_markdown) : Markdown for Dear ImGui  
 [CedricGuillemet / ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) : Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui  
+[https://github.com/epezent/implot](https://github.com/epezent/implot) : Advanced 2D Plotting for Dear ImGui  
 [ggerganov / imtui](https://github.com/ggerganov/imtui) : ImTui: Immediate Mode Text-based User Interface  
 [matt-42 / iod](https://github.com/matt-42/iod) : Meta programming utilities for C++14. Merged in matt-42/lithium  
 [include-what-you-use / include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) : A tool for use with clang to analyze #includes in C and C++ source files  
 [p-ranav / indicators](https://github.com/p-ranav/indicators) : Activity Indicators for Modern C++  
 [ThePhD / infoware](https://github.com/ThePhD/infoware) : C++ Library for pulling system and hardware information, without hitting the command line.  
+[pantor / inja](https://github.com/pantor/inja) : A Template Engine for Modern C++  
+[Stiffstream / json_dto](https://github.com/Stiffstream/json_dto) : A small header-only library for converting data between json representation and c++ structs  
+[kpu / kenlm](https://github.com/kpu/kenlm) : KenLM: Faster and Smaller Language Model Queries  
 [foonathan / lexy](https://github.com/foonathan/lexy) : C++ parser combinator library  
 [sm2coin / libcr](https://github.com/sm2coin/libcr) : Extremely lightweight 1:N & M:N multitasking via coroutines and protothreads library  
 [tencent-wechat / libco](https://github.com/tencent-wechat/libco) : Coroutine library for C/C++  
+[ridiculousfish / libdivide](https://github.com/ridiculousfish/libdivide) : Official git repository for libdivide: optimized integer division  
 [TLeonardUK / libjobs](https://github.com/TLeonardUK/libjobs) : Libjobs is a simple C++ library for allow multi-threaded coroutine-style job management and scheduling (implemented using fibers).  
+[yyzybb537 / libgo](https://github.com/yyzybb537/libgo) : Go-style concurrency in C++11  
 [liblava / liblava-demo](https://github.com/liblava/liblava-demo) : Demonstration projects for liblava  
 [project-arcana / living-doc-cpp](https://github.com/project-arcana/living-doc-cpp) : Opinionated C++ documentation generator based on cppast  
 [LukasBanana / LLGL](https://github.com/LukasBanana/LLGL) : Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal  
@@ -146,6 +221,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [boostorg / multiprecision](https://github.com/boostorg/multiprecision) : Boost.Multiprecision  
 [Neargye / nameof](https://github.com/Neargye/nameof) : Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum  
 [martinus / nanobench](https://github.com/martinus/nanobench) : Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20  
+[NoAvailableAlias / nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) : Pure C++17 Signals and Slots  
 [project-arcana / nexus](https://github.com/project-arcana/nexus) : C++ library for tests (unit, fuzz, property), benchmarks, apps  
 [sammyfreg / netImgui](https://github.com/sammyfreg/netImgui) : 'Dear Imgui' remote access library and application  
 [mq1n / NoMercy](https://github.com/mq1n/NoMercy) : Open source anti cheat  
@@ -153,44 +229,59 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [kcat / openal-soft](https://github.com/kcat/openal-soft) : OpenAL Soft is a software implementation of the OpenAL 3D audio API.  
 [OpenMW / openmw](https://github.com/OpenMW/openmw) : This is a read-only mirror of OpenMW. For latest releases, issue tracking and development, visit our Gitlab page below.  
 [openscenegraph / OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) :  OpenSceneGraph git repository www.openscenegraph.org  
+[NVIDIA / nccl](https://github.com/NVIDIA/nccl) : Optimized primitives for collective multi-GPU communication  
+[libnonius / nonius](https://github.com/libnonius/nonius) : A C++ micro-benchmarking framework  
 [thedmd / pixeltoaster](https://github.com/thedmd/pixeltoaster) : PixelToaster is a framebuffer library for C++  
 [project-arcana / phantasm-viewer](https://github.com/project-arcana/phantasm-viewer) : Render-anywhere viewer that scales from one-line debug views to full applications  
 [billyquith / ponder](https://github.com/billyquith/ponder) : C++ reflection library with Lua binding, and JSON and XML serialisation.  
 [p-ranav / psched](https://github.com/p-ranav/psched) : Priority-based Task Scheduling for Modern C++  
 [milostosic / rbase](https://github.com/milostosic/rbase) : Platform abstraction and utility library  
+[mrtazz / restclient-cpp](https://github.com/mrtazz/restclient-cpp) : C++ client for making HTTP/REST requests  
 [project-arcana / rich-log](https://github.com/project-arcana/rich-log) : Low-overhead versatile C++ rich logging library  
 [rpclib / rpclib](https://github.com/rpclib/rpclib) : rpclib is a modern C++ msgpack-RPC server and client library  
 [nfrechette / rtm](https://github.com/nfrechette/rtm) : Realtime Math  
 [rttrorg / rttr](https://github.com/rttrorg/rttr) : C++ Reflection Library  
+[ShahriarSS / serio](https://github.com/ShahriarSS/serio) : Fast and Header-only C++11 Serialization Library  
+[gocha / sf2cute](https://github.com/gocha/sf2cute) : C++14 Library for SoundFont 2  
 [dcleblanc / SafeInt](https://github.com/dcleblanc/SafeInt) : SafeInt is a class library for C++ that manages integer overflows.  
 [boostorg / safe_numerics](https://github.com/boostorg/safe_numerics) : Replacements to standard numeric types which throw exceptions on errors  
 [seanbaxter / shaders](https://github.com/seanbaxter/shaders) : Circle C++ shaders  
-[ShahriarSS / serio](https://github.com/ShahriarSS/serio) : Fast and Header-only C++11 Serialization Library  
-[p-ranav / small_vector](https://github.com/p-ranav/small_vector) : "Small Vector" optimization for Modern C++: store up to a small number of items on the stack  
 [simdjson / simdjson](https://github.com/simdjson/simdjson) : Parsing gigabytes of JSON per second  
+[p-ranav / small_vector](https://github.com/p-ranav/small_vector) : "Small Vector" optimization for Modern C++: store up to a small number of items on the stack  
 [trenki2 / SoftwareRenderer](https://github.com/trenki2/SoftwareRenderer) : C++ Software Renderer/Rasterizer  
 [EmuraDaisuke / SortingAlgorithm.HayateShiki](https://github.com/EmuraDaisuke/SortingAlgorithm.HayateShiki) : Hayate-Shiki is an improved merge sort algorithm with the goal of "faster than quick sort".  
 [gabime / spdlog](https://github.com/gabime/spdlog) : Fast C++ logging library.  
 [standardese / standardese](https://github.com/standardese/standardese) : A (work-in-progress) nextgen Doxygen for C++  
 [project-arcana / structured-interface](https://github.com/project-arcana/structured-interface) : Structured immediate-mode production-quality UI  
 [jpcy / xatlas](https://github.com/jpcy/xatlas) : Mesh parameterization / UV unwrapping library  
+[JustasMasiulis / xorstr](https://github.com/JustasMasiulis/xorstr) : heavily vectorized c++17 compile time string encryption.  
+[xtensor-stack / xsimd](https://github.com/xtensor-stack/xsimd) : C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)  
+[xtensor-stack / xtensor](https://github.com/xtensor-stack/xtensor) : C++ tensors with broadcasting and lazy computing  
 [p-ranav / tabulate](https://github.com/p-ranav/tabulate) : Table Maker for Modern C++  
 [project-arcana / task-dispatcher](https://github.com/project-arcana/task-dispatcher) : High-performance intuitive task-based concurrency framework with fiber support  
 [SergeyMakeev / TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler) : Cross-platform, fiber-based, multi-threaded task scheduler designed for video games.  
-[TartanLlama / typeclasses](https://github.com/TartanLlama/typeclasses) : Future C++ implementation of Rust-like trait objects with no boilerplate  
 [foonathan / tiny](https://github.com/foonathan/tiny) : low-level library for minimizing the size of your types  
+[cxong / tinydir](https://github.com/cxong/tinydir) : Lightweight, portable and easy to integrate C directory and file reader  
 [tinyobjloader / tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) : Tiny but powerful single file wavefront obj loader  
+[eidheim / tiny-process-library](https://github.com/eidheim/tiny-process-library) : A small platform independent library making it simple to create and stop new processes in C++, as well as writing to stdin and reading from stdout and stderr of a new process  
+[aseprite / tinythreadpp](https://github.com/aseprite/tinythreadpp) : TinyThread++ mirror  
+[progschj / ThreadPool](https://github.com/progschj/ThreadPool) : A simple C++11 Thread Pool implementation  
 [r-lyeh-archived / tracey](https://github.com/r-lyeh-archived/tracey) : :squirrel: Tracey is a lightweight and simple C++ memory leak finder with no dependencies.  
 [wolfpld / tracy](https://github.com/wolfpld/tracy) : C++ frame profiler  
 [boostorg / throw_exception](https://github.com/boostorg/throw_exception) : Common infrastructure for throwing exceptions  
+[TartanLlama / typeclasses](https://github.com/TartanLlama/typeclasses) : Future C++ implementation of Rust-like trait objects with no boilerplate  
 [foonathan / type_safe](https://github.com/foonathan/type_safe) : Zero overhead utilities for preventing bugs at compile time  
 [whitequark / unfork](https://github.com/whitequark/unfork) : unfork(2) is the inverse of fork(2). sort of.  
+[mpark / variant](https://github.com/mpark/variant) : C++17 `std::variant` for C++11/14/17  
 [LLNL / variorum](https://github.com/LLNL/variorum) : Tool for hardware-level feature control  
 [glampert / vectormath](https://github.com/glampert/vectormath) : Modified version of Sony's open sourced vector and matrix math library.  
 [gurki / vivid](https://github.com/gurki/vivid) : A simple-to-use cpp color library  
 [razor950 / vld](https://github.com/razor950/vld) : Visual Leak Detector for Visual C++ 2008-2019  
+[jnmaloney / WebGui](https://github.com/jnmaloney/WebGui) : An example demo of IMGUI (Immediate Mode GUI) on the web. Using only WebGL, GLFW and ImGui. Suitable for being compiled to web assembly (WASM).  
+[microsoft / wil](https://github.com/microsoft/wil) : Windows Implementation Library  
 [EmuraDaisuke / Windows.HighPrecision-IntervalWait](https://github.com/EmuraDaisuke/Windows.HighPrecision-IntervalWait) : High precision interval wait for windows.  
 [EmuraDaisuke / Window.SignalCallback](https://github.com/EmuraDaisuke/Window.SignalCallback) : Signal callback for windows  
+[MediaArea / ZenLib](https://github.com/MediaArea/ZenLib) : Small C++ derivate classes to have an easier life  
 
 # C#
 
@@ -253,6 +344,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [gaia-pipeline / gaia](https://github.com/gaia-pipeline/gaia) : Build powerful pipelines in any programming language.  
 [hillin / FASTBuild-Dashboard](https://github.com/hillin/FASTBuild-Dashboard) : A GUI for FASTBuild  
 [kata-containers / kata-containers](https://github.com/kata-containers/kata-containers) : Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.  
+[docker / kitematic](https://github.com/docker/kitematic) : Visual Docker Container Management on Mac & Windows
 [milvus-io / milvus](https://github.com/milvus-io/milvus) : An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy  
 [monitoror / monitoror](https://github.com/monitoror/monitoror) : Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.  
 [build-canaries / nevergreen](https://github.com/build-canaries/nevergreen) : 🐤 A build monitor with attitude  
@@ -274,11 +366,15 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Editor
 
+[asciidocfx / AsciidocFX](https://github.com/asciidocfx/AsciidocFX) : Asciidoc Editor and Toolchain written with JavaFX 14 (Build PDF, Epub, Mobi and HTML books, documents and slides)  
 [WerWolv / ImHex](https://github.com/WerWolv/ImHex) : A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.  
 [mawww / kakoune](https://github.com/mawww/kakoune) : mawww's experiment for a better code editor  
+[onivim / oni](https://github.com/onivim/oni) : Oni: Modern Modal Editing - powered by Neovim  
+[onivim / oni2](https://github.com/onivim/oni2) : Native, lightweight modal code editor  
 [SpaceVim / SpaceVim](https://github.com/SpaceVim/SpaceVim) : A community-driven modular vim distribution - The ultimate vim configuration  
 [vim / vim](https://github.com/vim/vim) : The official Vim repository  
 [microsoft / vscode](https://github.com/microsoft/vscode) : Visual Studio Code  
+[ShiftMediaProject / VSYASM](https://github.com/ShiftMediaProject/VSYASM) : Provides Visual Studio integration for the YASM assembler.  
 
 # Education
 
@@ -383,9 +479,11 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [tomlooman / ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) : Third-person Action Roguelike in UE4 C++ (Stanford CS193U)  
 [NitrogenDev / Advanced-Quest-System](https://github.com/NitrogenDev/Advanced-Quest-System) : Dynamic event-driven quest system made in Unreal Engine 4  
 [infinitespacegames / AdvancedLocomotionV3](https://github.com/infinitespacegames/AdvancedLocomotionV3) : C++ port of Advanced Locomotion V3, by Longmire Locomotion  
+[KomodoPlatform / antara-gaming-sdk](https://github.com/KomodoPlatform/antara-gaming-sdk) : Komodo Gaming Software Development Kit  
 [armory3d / armorpaint_unreal](https://github.com/armory3d/armorpaint_unreal) : Unreal Engine plugin for ArmorPaint  
 [Unity-Technologies / AutoLOD](https://github.com/Unity-Technologies/AutoLOD) : Automatic LOD generation + scene optimization  
 [fpwong / AutoSizeComments](https://github.com/fpwong/AutoSizeComments) : Plugin for Unreal Engine 4 that adds auto resizing comment boxes  
+[slembcke / Chipmunk2D](https://github.com/slembcke/Chipmunk2D) : A fast and lightweight 2D game physics library.  
 [keypax / dynamic-walls-demo](https://github.com/keypax/dynamic-walls-demo) : This demo project (Unity) showcases dynamic walls whose sides adapt to the environment used in our upcoming game: Pelagos: Rise of Greece.  
 [kuojustin96 / Dynamic-Weather-System](https://github.com/kuojustin96/Dynamic-Weather-System) : Simple Dynamic Weather System made in Unreal Engine 4 using both C++ and Blueprint  
 [EZhex1991 / EZSoftBone](https://github.com/EZhex1991/EZSoftBone) : A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects  
@@ -407,6 +505,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [BluestormDNA / ProjectPSX](https://github.com/BluestormDNA/ProjectPSX) : Experimental C# Playstation Emulator  
 [ValveSoftware / Proton](https://github.com/ValveSoftware/Proton) : Compatibility tool for Steam Play based on Wine and additional components  
 [bombomby / optick](https://github.com/bombomby/optick) : C++ Profiler For Games  
+[recastnavigation / recastnavigation](https://github.com/recastnavigation/recastnavigation) : Navigation-mesh Toolset for Games  
 [Segs / Segs](https://github.com/Segs/Segs) : 💪 SEGS - Super Entity Game Server  
 [AltimorTASDK / SFVNetcodeFix](https://github.com/AltimorTASDK/SFVNetcodeFix) : ix for SFV's online timing desync/one sided rollback bug  
 [keijiro / SkyboxPlus](https://github.com/keijiro/SkyboxPlus) : Basic skybox extensions for Unity  
@@ -465,9 +564,14 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [kondrak / vkQuake2](https://github.com/kondrak/vkQuake2) : id Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, MacOS, FreeBSD, Raspberry Pi 4)  
 [TerryCavanagh / VVVVVV](https://github.com/TerryCavanagh/VVVVVV) : The source code to VVVVVV! http://thelettervsixtim.es/  
 
+### Game Mods
+
+[someonesomewheredev / boneworks-mp](https://github.com/someonesomewheredev/boneworks-mp) : Unofficial Boneworks Multiplayer Mod  
+
 ### Real-Time Engines
 
 [EQMG / Acid](https://github.com/EQMG/Acid) : A high speed C++17 Vulkan game engine  
+[RandyGaul / AsciiEngine](https://github.com/RandyGaul/AsciiEngine) : Game engine written in C to create Ascii art games within the Windows console.  
 [bevyengine / bevy](https://github.com/bevyengine/bevy) : A refreshingly simple data-driven game engine built in Rust  
 [unclearness / currender](https://github.com/unclearness/currender) : Currender: A CPU renderer for computer vision  
 [DiligentGraphics / DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) : A modern cross-platform low-level graphics library and rendering framework  
@@ -476,8 +580,10 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [godotengine / godot](https://github.com/godotengine/godot) : Godot Engine – Multi-platform 2D and 3D game engine  
 [Themaister / Granite](https://github.com/Themaister/Granite) : My personal Vulkan renderer  
 [FrictionalGames / HPL1Engine](https://github.com/FrictionalGames/HPL1Engine) : A real time 3D engine.  
+[zaki / irrlicht](https://github.com/zaki/irrlicht) : An automatically updated mirror of the Irrlicht SVN repository on sourceforge  
 [jian-ru / laugh_engine](https://github.com/jian-ru/laugh_engine) : A Vulkan implementation of real-time PBR renderer  
 [glouw / littlewolf](https://github.com/glouw/littlewolf) : A tiny software graphics and game engine  
+[Emill / n64-fast3d-engine](https://github.com/Emill/n64-fast3d-engine) : Fast3D renderer for Nintendo 64 games  
 [mmp / pbrt-v4](https://github.com/mmp/pbrt-v4) : This is an early release of pbrt-v4, the rendering system that will be described in the (eventually) forthcoming fourth edition of Physically Based Rendering: From Theory to Implementation.  
 [Zielon / PBRVulkan](https://github.com/Zielon/PBRVulkan) : Vulkan Real-time Path Tracer Engine  
 [project-arcana / phantasm-renderer](https://github.com/project-arcana/phantasm-renderer) : Modern immediate-style high-productivity C++ renderer based on Vulkan/DX12  
@@ -491,6 +597,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Graphics / GPU
 
+[DragonJoker / Ashes](https://github.com/DragonJoker/Ashes) : Drop-in replacement for Vulkan shared library, for older hardware compatibility  
 [BinomialLLC / basis_universal](https://github.com/BinomialLLC/basis_universal) : Basis Universal GPU Texture Codec  
 [bkaradzic / bgfx](https://github.com/bkaradzic/bgfx) : Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.  
 [GameFoundry / bsf](https://github.com/GameFoundry/bsf) : Modern C++14 library for the development of real-time graphical applications  
@@ -504,6 +611,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [Dav1dde / glad](https://github.com/Dav1dde/glad) : Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.  
 [nigels-com / glew](https://github.com/nigels-com/glew) : The OpenGL Extension Wrangler Library  
 [rust-windowing / glutin](https://github.com/rust-windowing/glutin) : A low-level library for OpenGL context creation, written in pure Rust.  
+[diharaw / Helios](https://github.com/diharaw/Helios) : Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.  
 [azagaya / laigter](https://github.com/azagaya/laigter) : Laigter: automatic normal map generator for sprites!  
 [mosra / magnum](https://github.com/mosra/magnum) : Lightweight and modular C++11/C++14 graphics middleware for games and data visualization  
 [mosra / magnum-bootstrap](https://github.com/mosra/magnum-bootstrap) : Bootstrap projects for Magnum C++11/C++14 graphics engine  
@@ -518,6 +626,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [dfranx / SHADERed](https://github.com/dfranx/SHADERed) : Lightweight, cross-platform & full-featured shader IDE  
 [google / shaderc](https://github.com/google/shaderc) : A collection of tools, libraries, and tests for Vulkan shader compilation.  
 [unclearness / ugu](https://github.com/unclearness/ugu) : UGU: Unclearness Geometry Utility  
+[PixarAnimationStudios / USD](https://github.com/PixarAnimationStudios/USD) : Universal Scene Description  
 [unclearness / vacancy](https://github.com/unclearness/vacancy) : Vacancy: A Voxel Carving implementation in C++  
 [vallentin / vkel](https://github.com/vallentin/vkel) : Simple Dynamic Vulkan Extension Loader  
 [zaps166 / vk-layer-flimes](https://github.com/zaps166/vk-layer-flimes) : Vulkan frame limiter  
@@ -603,14 +712,17 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 
 # Misc
 
+[asciidocfx / AsciidocFX ](https://github.com/asciidocfx/AsciidocFX) :  Asciidoc Editor and Toolchain written with JavaFX 14 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 [baldengineer / bit-preserve](https://github.com/baldengineer/bit-preserve) : Project for capturing vintage, classic, aka old computer schematics in KiCad.  
 [HackerPoet / Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) : Simple mathematical art  
 [bountysource / core](https://github.com/bountysource/core) : Bountysource is the funding platform for open-source software.  
 [Chaosthebot / Chaos](https://github.com/Chaosthebot/Chaos) : A social coding experiment that updates its own code democratically.  
-[GNOME / gimp](https://github.com/GNOME/gimp) : Read-only mirror of https://gitlab.gnome.org/GNOME/gimp  
+[GNOME / gimp](https://github.com/GNOME/gimp) : Reaz-only mirror of https://gitlab.gnome.org/GNOME/gimp
+ [alexkim205 / G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) : Google Suite as a desktop app. Made possible with Electron.
 [src-d / homebrew](https://github.com/src-d/homebrew) : Real homebrew!  
 [alfg / opendrinks](https://github.com/alfg/opendrinks) : 🍸 Open Source Drinks! Add your own recipe in a pull request!  
 [Xeeynamo / OpenKh](https://github.com/Xeeynamo/OpenKh) : Kingdom Hearts libraries, tools, game engine and documentation  
+[mtkennerly / ludusavi](https://github.com/mtkennerly/ludusavi) : Backup tool for PC game saves
 [hendricius / pizza-dough](https://github.com/hendricius/pizza-dough) : This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.  
 [thinks / platonic-solids](https://github.com/thinks/platonic-solids) : Models, code, and images of the platonic solids in 3D.  
 [polynote / polynote](https://github.com/polynote/polynote) : A better notebook for Scala (and more)  
@@ -685,12 +797,14 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [psf / black](https://github.com/psf/black) : The uncompromising Python code formatter  
 [minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) : The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.  
 [hoffstadt / DearPyGui](https://github.com/hoffstadt/DearPyGui) : Dear PyGui: A Bloat-free Graphical User Interface for Python with minimal dependencies  
+[docopt / docopt](https://github.com/docopt/docopt) : Pythonic command line arguments parser, that will make you smile  
 [knipknap / Gelatin](https://github.com/knipknap/Gelatin) : Transform text files to XML, JSON, or YAML  
 [gevent / gevent](https://github.com/gevent/gevent) : Coroutine-based concurrency library for Python  
 [spotify / luigi](https://github.com/spotify/luigi) : Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  
 [lihaoyi / macropy](https://github.com/lihaoyi/macropy) : Macros in Python: quasiquotes, case classes, LINQ and more!  
 [arvidsson / make_header](https://github.com/arvidsson/make_header) : Python script which creates a single header from multiple C/C++ files.  
 [csingley / ofxtools ](https://github.com/csingley/ofxtools) : Python OFX Library  
+[darx0r / Reef](https://github.com/darx0r/Reef) : IDAPython plugin for finding Xrefs from a function  
 [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) : All Algorithms implemented in Python  
 [googleapis / python-pubsub](https://github.com/googleapis/python-pubsub) : Python Client for Google Cloud Pub / Sub  
 [Viatorus / quom](https://github.com/Viatorus/quom) : Quom generates a single file from your for C/C++ sources.  
@@ -699,9 +813,11 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 # Reverse Engineering
 
 [aquynh / capstone](https://github.com/aquynh/capstone) : Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.  
+[zer0mem / cccapstone](https://github.com/zer0mem/cccapstone) : c++ bindings for capstone disasembly framework (http://www.capstone-engine.org/ - https://github.com/aquynh/capstone)  
 [Cuyler36 / CodeWarriorDemangler](https://github.com/Cuyler36/CodeWarriorDemangler) : CodeWarrior demangler  
 [riidefi / compiler_postprocess](https://github.com/riidefi/compiler_postprocess) : Patches supporting decompilation with the CodeWarrior compiler.  
 [rizinorg / cutter](https://github.com/rizinorg/cutter) : Free and Open Source Reverse Engineering Platform powered by rizin  
+[gdabah / distorm](https://github.com/gdabah/distorm) : Powerful Disassembler Library For x86/AMD64  
 [furrtek / DMG-CPU-Inside](https://github.com/furrtek/DMG-CPU-Inside) : Reverse-engineered schematics for DMG-CPU-B  
 [retroplasma / earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) : Reversing Google's 3D satellite mode  
 [daenerys-sre / source](https://github.com/daenerys-sre/source) : Daenerys: A framework for interoperability between IDA and Ghidra  
@@ -768,6 +884,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [singuerinc / artstagram](https://github.com/singuerinc/artstagram) : Unofficial/Unsolicited ArtStation client with an Instagram inspired feed  
 [cy-Hsu / ArtstationCrawler](https://github.com/cy-Hsu/ArtstationCrawler) : An Artstation crawler made specific for downloading images, now supporting:  
 [findix / ArtStationDownloader](https://github.com/findix/ArtStationDownloader) : ArtStation Downloader is a lightweight tool to help you download images and videos from https://www.artstation.com/  
+[RobotKernel / artstation-scrape-likes](https://github.com/RobotKernel/artstation-scrape-likes) : python 3 script to download images from artstation  
 [aristocratos / bpytop](https://github.com/aristocratos/bpytop) : Linux/OSX/FreeBSD resource monitor  
 [Klocman / Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) : Remove large amounts of unwanted applications quickly.  
 [zumoshi / BrowserSelect](https://github.com/zumoshi/BrowserSelect) : Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.  
@@ -779,6 +896,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [google / gapid](https://github.com/google/gapid) : Graphics API Debugger  
 [orf / gping](https://github.com/orf/gping) : Ping, but with a graph  
 [falahati / HeliosDisplayManagement](https://github.com/falahati/HeliosDisplayManagement) : An open source display profile management program for Windows with support for NVIDIA Surround  
+[aiekick / ImGuiFontStudio](https://github.com/aiekick/ImGuiFontStudio) : Font Helper Gui Tool for programming  
 [facebook / infer](https://github.com/facebook/infer) : A static analyzer for Java, C, C++, and Objective-C  
 [variar / klogg](https://github.com/variar/klogg) : A fast, advanced log explorer based on glogg project  
 [ScoopInstaller / Main](https://github.com/ScoopInstaller/Main) : 📦 The next-generation default bucket for Scoop.  
@@ -789,6 +907,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [PowerShell / PowerShell](https://github.com/PowerShell/PowerShell) : PowerShell for every system!  
 [microsoft / PowerToys](https://github.com/microsoft/PowerToys) : Windows system utilities to  maximize productivity  
 [prettier / prettier](https://github.com/prettier/prettier) : Prettier is an opinionated code formatter.  
+[JordiRos / remoteimgui](https://github.com/JordiRos/remoteimgui) : Remote ImGui for https://github.com/ocornut/imgui  
 [baldurk / renderdoc](https://github.com/baldurk/renderdoc) : RenderDoc is a stand-alone graphics debugging tool.  
 [google / sanitizers](https://github.com/google/sanitizers) : AddressSanitizer, ThreadSanitizer, MemorySanitizer  
 [prezesp / scoop-viewer](https://github.com/prezesp/scoop-viewer) : A gui client for scoop.  
@@ -832,6 +951,8 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [ValveSoftware / steamos-compositor](https://github.com/ValveSoftware/steamos-compositor) : SteamOS session compositing window manager  
 [PoIgor / Tools](https://github.com/PoIgor/Tools) : Tools for vrCluster plugin  
 [Jiankors / vrCluster](https://github.com/Jiankors/vrCluster) : UE4 plugin source code and sample project  
+[mordentral / VRExpPluginExample](https://github.com/mordentral/VRExpPluginExample) : VRE Example Template  
+[mordentral / VRExpansionPlugin](https://github.com/mordentral/VRExpansionPlugin) : A UE4 VR framework 
 [vrpn / vrpn](https://github.com/vrpn/vrpn) : Virtual Reality Peripheral Network - Official GitHub Repository  
 [PjotrSvetachov / VRPNInput](https://github.com/PjotrSvetachov/VRPNInput) : A Unreal Engine 4 plugin to add VRPN input to blueprints.  
 
@@ -850,15 +971,16 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [Shpota / goxygen](https://github.com/Shpota/goxygen) : Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
 [ottobonn / hexo-image-sizes](https://github.com/ottobonn/hexo-image-sizes) : Generate multiple images sizes (thumbnail, body, etc.) for each source image in Hexo  
 [quocvu / hexo-tag-youtube-responsive](https://github.com/quocvu/hexo-tag-youtube-responsive) : Hexo tag plugin to embed a Youtube video that auto resizes with your responsive layout  
+[immerjs / immer](https://github.com/immerjs/immer) : Create the next immutable state by mutating the current one  
 [heroiclabs / nakama](https://github.com/heroiclabs/nakama) : Distributed server for social and realtime games and apps.  
+[jiahaog / nativefier](https://github.com/jiahaog/nativefier) : Make any web page a desktop application  
 [nostalgic-css / NES.css](https://github.com/nostalgic-css/NES.css) : NES-style CSS Framework | ファミコン風CSSフレームワーク  
-[mordentral / VRExpPluginExample](https://github.com/mordentral/VRExpPluginExample) : VRE Example Template  
-[mordentral / VRExpansionPlugin](https://github.com/mordentral/VRExpansionPlugin) : A UE4 VR framework  
 [bytecodealliance / wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) : WebAssembly Micro Runtime (WAMR)  
 [WebAssembly / WASI](https://github.com/WebAssembly/WASI) :  WebAssembly System Interface  
 [KhronosGroup / WebGL](https://github.com/KhronosGroup/WebGL) : The Official Khronos WebGL Repository  
 [frenchtoast747 / webgl-obj-loader](https://github.com/frenchtoast747/webgl-obj-loader) : A simple OBJ model loader to help facilitate the learning of WebGL.  
 [WebAssembly / wabt](https://github.com/WebAssembly/wabt) : The WebAssembly Binary Toolkit  
+[MrS0m30n3 / youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) : A cross platform front-end GUI of the popular youtube-dl written in wxPython.  
 
 # Whitepapers
 
