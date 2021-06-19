@@ -579,6 +579,7 @@ Because Github's "Your Stars" is a pain to sift through. First stage of this is 
 [RomkoSI / G3D](https://github.com/RomkoSI/G3D) : The G3D Innovation Engine by Morgan McGuire  
 [godotengine / godot](https://github.com/godotengine/godot) : Godot Engine – Multi-platform 2D and 3D game engine  
 [Themaister / Granite](https://github.com/Themaister/Granite) : My personal Vulkan renderer  
+[amzeratul / halley](https://github.com/amzeratul/halley) : A lightweight game engine written in modern C++  
 [FrictionalGames / HPL1Engine](https://github.com/FrictionalGames/HPL1Engine) : A real time 3D engine.  
 [zaki / irrlicht](https://github.com/zaki/irrlicht) : An automatically updated mirror of the Irrlicht SVN repository on sourceforge  
 [jian-ru / laugh_engine](https://github.com/jian-ru/laugh_engine) : A Vulkan implementation of real-time PBR renderer  
